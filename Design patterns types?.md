@@ -1,5 +1,3 @@
-Certainly! Here's how you can format the types of design patterns using Markdown for GitHub:
-
 ### Design Pattern Types
 
 #### Creational Patterns
